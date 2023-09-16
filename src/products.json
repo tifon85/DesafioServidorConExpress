@@ -1,0 +1,38 @@
+[
+	{
+		"title": "asd1",
+		"description": "asd1",
+		"price": "2.34",
+		"thumbnail": "asd1",
+		"code": "asd1",
+		"stock": 13,
+		"id": 1
+	},
+	{
+		"title": "asd2",
+		"description": "asd2",
+		"price": "2.34",
+		"thumbnail": "asd2",
+		"code": "asd2",
+		"stock": 13,
+		"id": 2
+	},
+	{
+		"title": "asd3",
+		"description": "asd3",
+		"price": "2.34",
+		"thumbnail": "asd3",
+		"code": "asd3",
+		"stock": 13,
+		"id": 3
+	},
+	{
+		"title": "asd4",
+		"description": "asd4",
+		"price": "2.34",
+		"thumbnail": "asd4",
+		"code": "asd4",
+		"stock": 13,
+		"id": 4
+	}
+]
