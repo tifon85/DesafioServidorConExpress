@@ -6,7 +6,7 @@ const port = 8080
 
 app.use(express.urlencoded({extended:true}))
 
-const prodManager = new productManager('./products.json')
+const prodManager = new productManager('./src/products.json')
 
 app.listen(port,(error)=>{
     if(error) console.log(error)
